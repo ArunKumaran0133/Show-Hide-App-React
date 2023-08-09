@@ -1,0 +1,52 @@
+.bg-container {
+  background-image: linear-gradient(to right, #fa7257, #fc63a7);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  font-family: 'Roboto';
+  font-size: 35px;
+  font-weight: bold;
+  color: white;
+  margin-bottom: 0px;
+}
+
+.btn-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.button {
+  color: #dd1264;
+  font-family: 'Roboto';
+  font-size: 10px;
+  border-radius: 5px;
+  height: 35px;
+  width: 150px;
+  border-width: 0px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.first-name-card {
+  background-color: #fddddb;
+  padding: 30px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  border-radius: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
